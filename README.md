@@ -272,7 +272,7 @@ Steps for using the configuration:
 
 #### On Ubuntu (Tested on 18.04, 20.04, 22.04)
 
-To use Flameshot instead of the default screenshot application in Ubuntu we need to remove the binding on <kbd>Prt Sc</kbd> key, and then create a new binding for `/usr/bin/flameshot gui` ([adaptated](https://askubuntu.com/posts/1039949/revisions) from [Pavel's answer on AskUbuntu](https://askubuntu.com/revisions/1036473/1)).
+To use Flameshot instead of the default screenshot application in Ubuntu we need to remove the binding on <kbd>Prt Sc</kbd> key, and then create a new binding for `/usr/bin/flameshot gui` ([adapted](https://askubuntu.com/posts/1039949/revisions) from [Pavel's answer on AskUbuntu](https://askubuntu.com/revisions/1036473/1)).
 
 1. Remove the binding on <kbd>Prt Sc</kbd>:
 
@@ -339,7 +339,7 @@ Some prebuilt packages are provided on [the release page of the GitHub project r
 
 There are packages available in the repository of some Linux distributions:
 
-- [Arch](https://www.archlinux.org/packages/community/x86_64/flameshot/): `pacman -S flameshot`
+- [Arch](https://archlinux.org/packages/extra/x86_64/flameshot/): `pacman -S flameshot`
   + Snapshot also available via AUR: [flameshot-git](https://aur.archlinux.org/packages/flameshot-git).
 - [Debian 10+](https://tracker.debian.org/pkg/flameshot): `apt install flameshot`
   + Package for Debian 9 ("Stretch") also [available via stretch-backports](https://backports.debian.org/).
@@ -536,4 +536,4 @@ Thanks to sponsors:
 - [Namecheap](https://www.namecheap.com/)
 - [JetBrains](https://www.jetbrains.com/)
 - [SignPath](https://signpath.io/)
-- [AnonAddy](https://anonaddy.com)
+- [addy.io](https://addy.io/)
